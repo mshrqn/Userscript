@@ -46,11 +46,16 @@
 // @grant        unsafeWindow
 //
 // @connect      localhost
+// @connect      skipped.lol
+// @connect      raw.githubusercontent.com
+//
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js
-// @resource     NOTYF_CSS https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.css
 // @require      https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.js
 // @require      https://raw.githubusercontent.com/mshrqn/Userscript/refs/heads/main/main.js
-// @require      https://raw.githubusercontent.com/mshrqn/Userscript/refs/heads/main/updatelog.js
+//
+// @resource     NOTYF_CSS https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.css
+// @resource     LOGO_PNG https://raw.githubusercontent.com/mshrqn/Userscript/refs/heads/main/favicon.ico
+//
 // @downloadURL  https://raw.githubusercontent.com/mshrqn/Userscript/refs/heads/main/mshr.user.js
 // @updateURL    https://raw.githubusercontent.com/mshrqn/Userscript/refs/heads/main/mshr.user.js
 //
