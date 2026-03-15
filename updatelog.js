@@ -1,0 +1,11 @@
+const updateData = {
+  "version": "1.1",
+  "date": "2026-03-15",
+  "changes": [
+    "Update New Ui Grid Caro",
+    "Fix bypass Linkvertise",
+    "Based on mouse tracking feature",
+    "Add a |Open Destination| link toggle button",
+    "Add updatelog section"
+  ]
+};
