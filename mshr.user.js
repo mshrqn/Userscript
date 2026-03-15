@@ -35,7 +35,7 @@
 // @match        https://yrtourguide.com/*
 // @match        https://tournguide.com/*
 //
-// @match       https://rekonise.com/*
+// @match        https://rekonise.com/*
 //
 // @grant        GM_setValue
 // @grant        GM_getValue
