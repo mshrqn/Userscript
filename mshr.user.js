@@ -42,6 +42,7 @@
 // @grant        GM_deleteValue
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getResourceText
+// @grant        GM_getResourceURL
 // @grant        GM_registerMenuCommand
 // @grant        unsafeWindow
 //
@@ -54,7 +55,7 @@
 // @require      https://raw.githubusercontent.com/mshrqn/Userscript/refs/heads/main/main.js
 //
 // @resource     NOTYF_CSS https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.css
-// @resource     LOGO_PNG https://raw.githubusercontent.com/mshrqn/Userscript/refs/heads/main/favicon.ico
+// @resource     LOGO_PNG https://raw.githubusercontent.com/mshrqn/Userscript/refs/heads/main/favicon.png
 //
 // @downloadURL  https://raw.githubusercontent.com/mshrqn/Userscript/refs/heads/main/mshr.user.js
 // @updateURL    https://raw.githubusercontent.com/mshrqn/Userscript/refs/heads/main/mshr.user.js
